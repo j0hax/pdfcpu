@@ -20,7 +20,7 @@ package filter
 import (
 	"io"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/j0hax/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

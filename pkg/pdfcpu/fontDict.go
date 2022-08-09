@@ -29,7 +29,7 @@ import (
 	"time"
 	"unicode/utf16"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
+	"github.com/j0hax/pdfcpu/pkg/font"
 	"github.com/pkg/errors"
 )
 

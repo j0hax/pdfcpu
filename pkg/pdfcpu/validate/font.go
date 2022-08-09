@@ -17,8 +17,8 @@ limitations under the License.
 package validate
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/j0hax/pdfcpu/pkg/log"
+	pdf "github.com/j0hax/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

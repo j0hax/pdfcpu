@@ -26,10 +26,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/validate"
+	"github.com/j0hax/pdfcpu/pkg/api"
+	"github.com/j0hax/pdfcpu/pkg/cli"
+	"github.com/j0hax/pdfcpu/pkg/pdfcpu"
+	"github.com/j0hax/pdfcpu/pkg/pdfcpu/validate"
 	"github.com/pkg/errors"
 )
 

@@ -26,8 +26,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/j0hax/pdfcpu/pkg/log"
+	"github.com/j0hax/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

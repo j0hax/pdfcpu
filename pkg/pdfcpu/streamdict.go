@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/j0hax/pdfcpu/pkg/filter"
+	"github.com/j0hax/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

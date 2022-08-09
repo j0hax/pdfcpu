@@ -17,7 +17,7 @@ limitations under the License.
 package pdfcpu
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
+	"github.com/j0hax/pdfcpu/pkg/filter"
 	"github.com/pkg/errors"
 )
 

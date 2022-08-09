@@ -37,10 +37,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/j0hax/pdfcpu/pkg/log"
+	"github.com/j0hax/pdfcpu/pkg/pdfcpu"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/validate"
+	"github.com/j0hax/pdfcpu/pkg/pdfcpu/validate"
 )
 
 // ReadContext uses an io.ReadSeeker to build an internal structure holding its cross reference table aka the Context.
